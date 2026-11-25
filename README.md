@@ -16,6 +16,6 @@ Disclaimer:
 This proyect is Made by me bya3822
 and "is only tested in firefox yt" dont wait a spotify version soon
 
-[![License: GPL v3](https://www.gnu.org/licenses/gpl.txt)]
+[![License: GPL v3](https://shields.io)(https://www.gnu.org/licenses/gpl.txt)]
 
 This project is licensed under the GNU General Public License v3.0. Any forks or derivative works must remain open source under the same license.
