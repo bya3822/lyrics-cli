@@ -7,6 +7,8 @@ so lets get started first im running on nixos so it will be a nix-shell file wit
 now you will ask why i didnt use all py or GO at all i did come up to this for seeing repos and repos with GO and py. py is easy go is fast why not combine both?
 thats why is 2 
 
+Note: Even though I use NixOS, this works on any Linux distro. You don't need Nix—just install go, python3, and playerctl with your normal package manager (apt, pacman, dnf, etc.) and run `python3 frontend/main.py`.
+
 dependencies: GO Python3 playerctl 
 
 this proyect is not needed to be compiled because there's fallback cause of that
