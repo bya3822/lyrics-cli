@@ -9,7 +9,9 @@ thats why is 2
 
 dependencies: GO Python3 playerctl 
 
-idk what to add 
+this proyect is not needed to be compiled because there's fallback cause of that
+i will not upload the compiled version in any website or any place on earth 
+(not even my pc because is slow so i will use the uncompiled version)
 
 Disclaimer:
 
