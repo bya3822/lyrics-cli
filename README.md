@@ -17,7 +17,7 @@ i will not upload the compiled version in any website or any place on earth
 Disclaimer:
 
 This proyect is Made by me bya3822
-and "is only tested in firefox yt" maybe in 3 - 4 days it will be a compability layer with spotify and more, no today cause i uploaded today i dont want to do 20 commits and a 2 hours debugging sesion and it is my first repo (i feel kinda bad for using ai so when i learn go and py i will rewrite all of this proyect)
+and "is only tested in firefox yt" maybe in 3 - 4 days it will be a compability layer with spotify and more, no today cause i uploaded today i dont want to do 20 commits and a 2 hours debugging sesion and it is my first repo (i feel kinda bad for using ai so when i learn go and py i will rewrite all of this proyect) // update it did work natively in spotify so forget the lines from before
 
 [![License: GPL v3](https://shields.io)(https://www.gnu.org/licenses/gpl.txt)]
 
