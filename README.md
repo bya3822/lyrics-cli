@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="screenshot-2026-11-25_21-23-54" src="https://github.com/user-attachments/assets/d581800c-dca5-46d9-80ec-74743d3d6440" />
 # lyrics-cli
 hi this is my proyect made with IA im not good programing in any aspect so you know that it is made with ai but i it works on my machine so i dont think it should be a problem 
 
